@@ -19,6 +19,7 @@ https://jiawei-ren.github.io/projects/insactor/index.html
 
 ### 🖼 Output
 
+https://github.com/camenduru/insactor-colab/assets/54370274/9f0a9c6b-90c8-4a1d-abc8-1da5b2ae739d
 
 ### 🏢 Sponsor
 https://modelslab.com
